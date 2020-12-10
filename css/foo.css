@@ -1,0 +1,32 @@
+.sidenav {
+    padding-top: 15px;
+}
+.content div .title{
+    background-color: #111;
+    color: #cde9fc;
+    transition: 0.4s;
+  }
+.sidenav a {
+    font-size: 18px;
+}
+.gallery{width: 100%;}
+.profil{width: 100%}
+.sidenav {
+    padding-top: 15px;
+  }
+  .text-block-1{display: none;}
+  .text-block{width: 100%;}
+  .sidenav a {
+    font-size: 18px;
+  }.gallery{
+    flex: 100%;
+    padding: 40px;
+    filter: grayscale(80%);
+    transition: 0.5s;
+  }
+  .gallery{filter: grayscale(0%);}
+  .main-pc{display: none;}
+  .main-mobile{display: block;}
+  .text-block{padding: 40% 0;}
+  .containr{width: 100%;}
+  .footer{padding: 10px;}
